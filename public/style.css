@@ -1,0 +1,63 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #008FC1;
+	background-color: #FFF0F0;
+	text-align: center;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+.footer {
+	margin-top: 60px;
+}
+
+ol {
+	list-style-position: inside;
+}
+ul {
+	list-style-type: none;
+}
+
+a {
+	color: #2574A9;
+}
+
+input {
+  display: block;
+  position: relative;
+  margin: 10px auto;
+  
+
+}
+input#button {
+  width: 230px;
+  background-color: #008FC1;
+  color: #FFF0F0;
+  border-radius: 5px;
+}
+
+input#inputfield{
+  
+}
+.view {
+  position:relative;
+  margin: auto;
+  margin-top: 40px;
+  border: 1px  solid  #008FC1;
+  border-radius: 5px;
+  padding: 20px;
+  width: 60%;
+  min-width: 400px;
+}
+/****** Logo Div Styling ******/
+
+img {
+	margin: 20px auto 0 auto;
+	display: block;
+}
